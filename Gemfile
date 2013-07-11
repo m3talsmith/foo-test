@@ -6,8 +6,7 @@ gem 'rails', '3.2.13'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
-gem 'foo_styles', path: '/Users/m3talsmith/projects/foo_styles'
-
+gem 'foo_styles', github: 'm3talsmith/foo_styles'
 
 # Gems used only for assets and not required
 # in production environments by default.

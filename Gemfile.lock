@@ -1,5 +1,6 @@
-PATH
-  remote: /Users/m3talsmith/projects/foo_styles
+GIT
+  remote: git://github.com/m3talsmith/foo_styles.git
+  revision: 01521c880fe56f48841be53e043e49a93a241275
   specs:
     foo_styles (0.0.1)
       railties (~> 3.1)
